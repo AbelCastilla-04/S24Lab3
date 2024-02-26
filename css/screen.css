@@ -51,7 +51,7 @@ p {
 
 #submit {
     width: 30%;
-	display: block;
+	box-sizing: border-box;
     font-weight: bold;
     padding: 10px;
     color: #fff;
@@ -64,3 +64,4 @@ p {
 #input-submit:hover {
     background-color: #555;
 }
+
