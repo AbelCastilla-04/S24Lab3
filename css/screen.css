@@ -22,7 +22,6 @@ label {
     font-weight: bold;
 }
 
-input[type="checkbox"],
 input[type="email"],
 textarea {
     width: 50%;
