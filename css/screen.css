@@ -20,8 +20,9 @@ h1 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-#input-email {
+#email {
     width: 50%;
+	box-sizing: border-box;
 	background-color: rgb(129, 133, 137);
 	border: none;
 	border-radius: 8px;
@@ -36,7 +37,7 @@ h1 {
 	padding: 10px;
 }
 
-#input-submit {
+#submit {
     width: 30%;
 	display: block;
     font-weight: bold;
