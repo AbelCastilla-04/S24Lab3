@@ -7,6 +7,7 @@ body {
 
 h1 {
 	font-size: 40px;
+	font-weight: bold;
 }
 
 
@@ -21,11 +22,18 @@ h1 {
 
 #input-email {
     width: 50%;
-	display: block;
+	background-color: rgb(129, 133, 137);
+	border: none;
+	border-radius: 8px;
     font-weight: bold;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
+}
+
+#input-age-verification {
+	font-family: 'Roboto', Arial, sans-serif;
+	padding: 10px;
 }
 
 #input-submit {
