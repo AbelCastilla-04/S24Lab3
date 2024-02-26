@@ -67,5 +67,19 @@ p {
 }
 
 @media only screen and (min-width: 768px) {
+	#content {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+	}
 	
+	h1 {
+    font-family: 'Graduate', Arial, sans-serif;
+	}
+	
+	#submit {
+	color: white;
+    background-color: navy;
+	}
 }
