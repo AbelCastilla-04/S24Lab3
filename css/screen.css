@@ -77,6 +77,10 @@ p {
     font-family: 'Graduate', Arial, sans-serif;
 	}
 	
+	#email {
+	font-family: 'Times New Roman', Arial, sans-serif;
+	}
+	
 	#submit {
 	color: white;
     background-color: navy;
